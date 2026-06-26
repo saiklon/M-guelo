@@ -1,0 +1,6 @@
+{
+  "name": "migueloopticas",
+  "description": "Una web profesional y elegante para una tienda de óptica de segmento premium.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
